@@ -1,2 +1,2 @@
 # RAP
-SAP's RESTful Application Programming Model
+ABAP RESTful Application Programming Model
